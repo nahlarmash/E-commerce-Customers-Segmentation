@@ -16,7 +16,7 @@ E-commerce-Customers-Segmentation-Project
 ## Overview
 The customer segmentation project utilizing unsupervised machine learning techniques to analyze customer demographics and transactional behavior. The project aims to group customers into segments that can be used to create targeted strategies, such as personalized coupon offerings.
 
-## Dataset
+## Dataset Overview
 The dataset used in this project consists of several tables related to customer demographics and transactional history. The key tables are:
 - **Customers:** Contains information about the customers, including their ID, join date, city, and gender.
 - **Genders:** Stores the gender data.
