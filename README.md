@@ -1,6 +1,8 @@
 <h1 align="center">
 E-commerce-Customers-Segmentation-Project
 <h1 align="center">
+<img width="600" alt="image" src="https://github.com/nahlarmash/E-commerce-Customers-Segmentation/blob/main/Customer%20segmentation.png">
+</h1> 
 
 ## Table of Contents
 - [Overview](#Overview)
